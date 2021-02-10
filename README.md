@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on a cool Design System called Komodo 😉
 - 🌱 I’m currently learning Gatsby
 - 📫 How to reach me: 
-- ⚡ Fun fact: ...
-- 🚀 Check out my latest project: 
+- ⚡ Fun fact: I do <a href="https://www.behance.net/eihabkhan" target="_blank">graphic design</a> as a hobby 
+- 🚀 Check out my <a href="https://github.com/eihabkhan/parrotxt" target="_blank">latest project</a>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
