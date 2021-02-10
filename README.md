@@ -4,9 +4,9 @@
 
 ### Glad to see you here! &nbsp;
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+I'm a software developer based in Meknes with 1 year of experience in Web development and 4 years of experience in graphic design.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+My focus area for the past year has been front-end development with React. I am very quality-conscious and detail-oriented due to my early career years in Graphic design roles.
 <img align="right" alt="GIF" src="./coding.gif?raw=true" width="408" height="318" />
 
 
