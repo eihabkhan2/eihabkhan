@@ -17,7 +17,7 @@ My focus area for the past year has been front-end development with React. I am 
 - 📫 How to reach me: mastereihab@gmail.com
 - ⚡ Fun fact: I do <a href="https://www.behance.net/eihabkhan" target="_blank">graphic design</a> as a hobby 
 - 🚀 Check out my <a href="https://github.com/eihabkhan/parrotxt" target="_blank">latest project</a>
-- 📝 <a href="https://docs.google.com/document/d/1pOIwNS73mEFVMPGE5rtV2obzwlHjst4roVTa9KOIcdg/edit?usp=sharing" target="_blank">Resume</a>
+- 📝 <a href="https://docs.google.com/document/d/1UUtnyt8pywOsjRsBn-a_N8yoJl672BvqyRlmIdq_UJs/edit?usp=sharing" target="_blank">Resume</a>
 
 </br>
 
