@@ -19,14 +19,6 @@ My focus area for the past year has been front-end development with React. I am 
 - 🚀 Check out my <a href="https://github.com/eihabkhan/parrotxt" target="_blank">latest project</a>
 - 📝 Resume: [English](https://docs.google.com/document/d/1UUtnyt8pywOsjRsBn-a_N8yoJl672BvqyRlmIdq_UJs/edit?usp=sharing) | [العربية](https://docs.google.com/document/d/1kzuqzYiPfQI6HMjovE_TXle84yQTGxYlV4Ek2yjePi8/edit?usp=sharing)
 
-</br>
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   2 mins          █████████████████████████   100.00 % 
-```
-<!--END_SECTION:waka-->
 
 </br>
 
