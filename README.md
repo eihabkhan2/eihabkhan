@@ -27,6 +27,7 @@ My focus area for the past year has been front-end development with React. I am 
 **GitHub Skyline:**
 Check out my [2020 GitHub Skyline](https://skyline.github.com/eihabkhan/2020)
 
+
 📈 **My GitHub Stats:**
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eihabkhan&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
