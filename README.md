@@ -30,6 +30,9 @@ Check out my [2020 GitHub Skyline](https://skyline.github.com/eihabkhan/2020)
 
 📈 **My GitHub Stats:**
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eihabkhan&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eihabkhan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
