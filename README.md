@@ -31,6 +31,13 @@ Check out my [2020 GitHub Skyline](https://skyline.github.com/eihabkhan/2020)
 📈 **My GitHub Stats:**
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   5 hrs 18 mins   █████████████████▒░░░░░░░   68.99 % 
+JSON         50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+CSS          45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+HTML         30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+```
 <!--END_SECTION:waka-->
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eihabkhan&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
