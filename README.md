@@ -15,7 +15,7 @@ My focus area for the past year has been front-end development with React. I am 
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on a cool Design System called Komodo 😉
-- 🌱 I’m currently learning Gatsby
+- 🌱 I’m currently learning Next.js ▲
 - 📫 How to reach me: mastereihab@gmail.com
 - ⚡ Fun fact: I am also a <a href="https://www.behance.net/eihabkhan" target="_blank">graphic designer</a>
 - 🚀 Check out my <a href="https://github.com/eihabkhan/parrotxt" target="_blank">latest project</a>
