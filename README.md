@@ -1,8 +1,8 @@
 ### Hello there, I'm <a href="https://twitter.com/eihab_khan" target="_blank">Eihab Khan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ---
 ![Banner](./banner.png)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/eihab-khan/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/eihab_khan)
+<a href="https://linkedin.com/in/eihab-khan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/eihab_khan" target="_blank"><img src="https://img.shields.io/badge/Twitter-1FA0F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 ### Glad to see you here! &nbsp;
 
