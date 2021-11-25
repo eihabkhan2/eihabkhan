@@ -31,11 +31,11 @@ Check out my [2020 GitHub Skyline](https://skyline.github.com/eihabkhan/2020)
 
 <!--START_SECTION:waka-->
 ```text
-HTML         13 hrs 23 mins  ██████████████████▓░░░░░░   74.12 % 
-JavaScript   3 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.72 % 
-CSS          40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-JSON         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Text         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+HTML         12 hrs 6 mins   ███████████████████░░░░░░   76.18 % 
+JavaScript   2 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+CSS          40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+JSON         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Text         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 ```
 <!--END_SECTION:waka-->
 
