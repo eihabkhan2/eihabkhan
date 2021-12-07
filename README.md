@@ -16,7 +16,7 @@ My focus area for the past two years has been front-end development with React. 
 
 - 🔭 I’m currently working on a cool Design System called Komodo 😉
 - 🌱 I’m currently learning NodeJS
-- 📫 How to reach me: mastereihab@gmail.com
+- 📫 How to reach me: eihabkhan1@gmail.com
 - ⚡ Fun fact: I am also a <a href="https://www.behance.net/eihabkhan" target="_blank">graphic designer</a>
 - 🚀 Check out my <a href="https://github.com/eihabkhan/parrotxt" target="_blank">latest project</a>
 - 📝 Resume: [English](https://docs.google.com/document/d/1UUtnyt8pywOsjRsBn-a_N8yoJl672BvqyRlmIdq_UJs/edit?usp=sharing) | [العربية](https://docs.google.com/document/d/1kzuqzYiPfQI6HMjovE_TXle84yQTGxYlV4Ek2yjePi8/edit?usp=sharing)
