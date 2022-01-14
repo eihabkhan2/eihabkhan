@@ -14,8 +14,8 @@ My focus area for the past two years has been front-end development with React. 
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on a cool Design System called Komodo 😉
-- 🌱 I’m currently learning NodeJS
+<!-- - 🔭 I’m currently working on a cool Design System called Komodo 😉 -->
+<!-- - 🌱 I’m currently learning X -->
 - 📫 How to reach me: eihabkhan1@gmail.com
 - ⚡ Fun fact: I am also a <a href="https://www.behance.net/eihabkhan" target="_blank">graphic designer</a>
 - 🚀 Check out my <a href="https://github.com/eihabkhan/parrotxt" target="_blank">latest project</a>
