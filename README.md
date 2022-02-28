@@ -31,13 +31,14 @@ you can also check my [2020 GitHub Skyline](https://skyline.github.com/eihabkhan
 📈 **My GitHub Stats:**
 
 <!--START_SECTION:waka-->
+
 ```text
-TypeScript   11 hrs 35 mins  ███████████████░░░░░░░░░░   60.12 % 
-JavaScript   6 hrs 8 mins    ████████░░░░░░░░░░░░░░░░░   31.82 % 
-Bash         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-Other        26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Go           11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+TypeScript   14 hrs          ████████████▒░░░░░░░░░░░░   49.18 %
+JavaScript   13 hrs 12 mins  ███████████▓░░░░░░░░░░░░░   46.35 %
+Bash         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
+
 <!--END_SECTION:waka-->
 
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eihabkhan&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
