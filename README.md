@@ -32,11 +32,9 @@ you can also check my [2020 GitHub Skyline](https://skyline.github.com/eihabkhan
 <!--START_SECTION:waka-->
 
 ```text
-Dart         12 hrs 8 mins   █████████████████▓░░░░░░░   71.15 %
-TypeScript   2 hrs 56 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.28 %
-HTML         36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-JavaScript   27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-Other        23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+Dart         12 hrs 17 mins  ██████████████▓░░░░░░░░░░   58.34 %
+TypeScript   6 hrs 35 mins   ███████▓░░░░░░░░░░░░░░░░░   31.29 %
+Other        36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
 <!--END_SECTION:waka-->
