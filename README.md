@@ -24,8 +24,8 @@ My focus area for the past two years has been front-end development with React. 
 </br>
 
 **GitHub Skyline:**
-Check out my [2021 GitHub Skyline](https://skyline.github.com/eihabkhan/2021)
-you can also check my [2020 GitHub Skyline](https://skyline.github.com/eihabkhan/2020)
+Check out my [2022 GitHub Skyline](https://skyline.github.com/eihabkhan/2022)
+you can also check my [2021 GitHub Skyline](https://skyline.github.com/eihabkhan/2021)
 
 📈 **My GitHub Stats:**
 
