@@ -32,8 +32,9 @@ you can also check my [2021 GitHub Skyline](https://skyline.github.com/eihabkhan
 <!--START_SECTION:waka-->
 
 ```text
-Dart         13 hrs 8 mins   ████████████████████████░   96.01 %
-Other        29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Dart         13 hrs 59 mins  ███████████████████▒░░░░░   77.34 %
+TypeScript   2 hrs 57 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
+Other        38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 ```
 
 <!--END_SECTION:waka-->
