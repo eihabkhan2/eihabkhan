@@ -32,8 +32,9 @@ you can also check my [2021 GitHub Skyline](https://skyline.github.com/eihabkhan
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   13 hrs 36 mins  ████████████████████████▓   98.62 %
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+TypeScript   10 hrs 47 mins  ███████████████████████▓░   94.56 %
+Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
