@@ -32,7 +32,7 @@ you can also check my [2021 GitHub Skyline](https://skyline.github.com/eihabkhan
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   8 hrs 23 mins   ████████████████████████▓   98.95 %
+TypeScript   8 hrs 23 mins   ████████████████████████▓   98.96 %
 XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
