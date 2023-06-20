@@ -34,7 +34,7 @@ you can also check my [2021 GitHub Skyline](https://skyline.github.com/eihabkhan
 ```txt
 No activity tracked
 ```
- 
+
 <!--END_SECTION:waka-->
 
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eihabkhan&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
