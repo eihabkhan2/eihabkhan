@@ -32,7 +32,8 @@ you can also check my [2021 GitHub Skyline](https://skyline.github.com/eihabkhan
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   3 mins          ████████████████████████▓   98.47 %
+Git        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 ```
 
 <!--END_SECTION:waka-->
