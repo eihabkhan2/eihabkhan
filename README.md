@@ -1,6 +1,6 @@
 ### Hello there, I'm <a href="https://twitter.com/eihab_khan" target="_blank">Eihab Khan</a>
 ---
-![Banner](./banner.jpg)
+![Banner](./banner.png)
 <a target="_blank" href="https://linkedin.com/in/eihab-khan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a target="_blank" href="https://twitter.com/eihab_khan" target="_blank"><img src="https://img.shields.io/badge/Twitter-1FA0F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
