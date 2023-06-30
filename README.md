@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp;
 
-I'm a software developer based in Rabat Morocco with 2 year of experience in Web development and 4 years of experience in graphic design.
+I'm a software developer based in Rabat Morocco with 2 year of experience in Web development and 5 years of experience in graphic design.
 
 My focus area for the past two years has been front-end development with React. I am very quality-conscious and detail-oriented due to my early career years in Graphic design roles.
 <!-- <img align="right" alt="GIF" src="./coding.gif?raw=true" width="408" height="318" /> -->
