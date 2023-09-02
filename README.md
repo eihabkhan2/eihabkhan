@@ -32,10 +32,8 @@ you can also check my [2021 GitHub Skyline](https://skyline.github.com/eihabkhan
 <!--START_SECTION:waka-->
 
 ```txt
-Docker   17 mins         █████████████████▒░░░░░░░   69.40 %
-Vue.js   3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
-JSON     3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
-YAML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Vue.js   3 mins          █████████████▒░░░░░░░░░░░   53.75 %
+JSON     3 mins          ███████████▓░░░░░░░░░░░░░   46.25 %
 ```
 
 <!--END_SECTION:waka-->
