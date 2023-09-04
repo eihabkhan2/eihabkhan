@@ -32,8 +32,7 @@ you can also check my [2021 GitHub Skyline](https://skyline.github.com/eihabkhan
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js   3 mins          █████████████▒░░░░░░░░░░░   53.75 %
-JSON     3 mins          ███████████▓░░░░░░░░░░░░░   46.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
