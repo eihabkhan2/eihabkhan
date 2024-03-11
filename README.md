@@ -32,11 +32,11 @@ you can also check my [2021 GitHub Skyline](https://skyline.github.com/eihabkhan
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js           9 hrs 19 mins   ███████████████▒░░░░░░░░░   61.45 %
-JavaScript       1 hr 38 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
-TypeScript       1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
-JSON             1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-Blade Template   37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Vue.js           9 hrs 12 mins   ███████████████▒░░░░░░░░░   61.32 %
+JavaScript       1 hr 38 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+TypeScript       1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
+JSON             1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+Blade Template   37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
 ```
 
 <!--END_SECTION:waka-->
