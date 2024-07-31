@@ -32,7 +32,9 @@ you can also check my [2021 GitHub Skyline](https://skyline.github.com/eihabkhan
 <!--START_SECTION:waka-->
 
 ```txt
-HTML   31 mins         █████████████████████████   100.00 %
+HTML             31 mins         ██████████████████▓░░░░░░   74.87 %
+PHP              5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
+Blade Template   5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
 ```
 
 <!--END_SECTION:waka-->
