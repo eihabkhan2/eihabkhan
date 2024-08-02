@@ -32,8 +32,8 @@ you can also check my [2021 GitHub Skyline](https://skyline.github.com/eihabkhan
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              5 mins          ████████████▓░░░░░░░░░░░░   50.09 %
-Blade Template   5 mins          ████████████▒░░░░░░░░░░░░   49.91 %
+PHP              13 mins         █████████████████▓░░░░░░░   70.92 %
+Blade Template   5 mins          ███████▒░░░░░░░░░░░░░░░░░   29.08 %
 ```
 
 <!--END_SECTION:waka-->
