@@ -32,7 +32,7 @@ you can also check my [2021 GitHub Skyline](https://skyline.github.com/eihabkhan
 <!--START_SECTION:waka-->
 
 ```txt
-Liquid   5 mins          █████████████████████████   100.00 %
+Liquid   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
