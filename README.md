@@ -32,11 +32,11 @@ you can also check my [2021 GitHub Skyline](https://skyline.github.com/eihabkhan
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   9 hrs 42 mins   █████████████████▒░░░░░░░   69.67 %
-JSON         2 hrs 37 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.78 %
-Liquid       1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-SCSS         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+JavaScript   5 hrs 54 mins   █████████████▒░░░░░░░░░░░   53.81 %
+JSON         3 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   31.86 %
+Liquid       1 hr 25 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
+SCSS         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
