@@ -32,8 +32,8 @@ you can also check my [2021 GitHub Skyline](https://skyline.github.com/eihabkhan
 <!--START_SECTION:waka-->
 
 ```txt
-Liquid   3 hrs 34 mins   ████████████████████████▓   99.02 %
-Other    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Liquid   3 hrs 22 mins   ████████████████████████▓   98.96 %
+Other    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
